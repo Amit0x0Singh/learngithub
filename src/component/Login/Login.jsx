@@ -26,7 +26,7 @@ const Login = () => {
                 <div className="form-content">
 
                     <div className="login-form">
-                        <div className="title">Login</div>
+                        <div className="title">Login Page</div>
                         <form action="#">
                             <div className="input-boxes">
                                 <div className="input-box">
